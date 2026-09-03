@@ -7,28 +7,28 @@ const destinations = [
     description:
       "A timeless city of art, architecture, cafés and unforgettable evenings.",
     image:
-      "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg",
+      "https://images.pexels.com/photos/32444545/pexels-photo-32444545.jpeg",
     places: [
       {
         name: "Eiffel Tower",
         description:
           "Paris's most iconic landmark, offering beautiful views across the city.",
         image:
-          "https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg",
+          "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg",
       },
       {
         name: "Louvre Museum",
         description:
           "A world-famous museum home to an extraordinary collection of art.",
         image:
-          "https://images.pexels.com/photos/2363/france-landmark-louvre-louvre-museum.jpg",
+          "https://images.pexels.com/photos/19647173/pexels-photo-19647173.jpeg",
       },
       {
         name: "Montmartre",
         description:
           "A charming historic neighborhood known for its artistic atmosphere.",
         image:
-          "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg",
+          "https://images.pexels.com/photos/21038395/pexels-photo-21038395.jpeg",
       },
     ],
   },
@@ -67,39 +67,39 @@ const destinations = [
     ],
   },
 
-  {
-    id: 3,
-    name: "Bali",
-    country: "Indonesia",
-    region: "Asia",
-    description:
-      "Tropical landscapes, peaceful temples, beaches and unforgettable sunsets.",
-    image:
-      "https://images.pexels.com/photos/1538177/pexels-photo-1538177.jpeg",
-    places: [
-      {
-        name: "Uluwatu Temple",
-        description:
-          "A dramatic sea temple perched high above Bali's southern coastline.",
-        image:
-          "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg",
-      },
-      {
-        name: "Tegallalang Rice Terraces",
-        description:
-          "Beautiful layered rice fields surrounded by lush tropical scenery.",
-        image:
-          "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg",
-      },
-      {
-        name: "Seminyak Beach",
-        description:
-          "A relaxed coastal destination known for sunsets, cafés and beach life.",
-        image:
-          "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg",
-      },
-    ],
-  },
+{
+  id: 3,
+  name: "Switzerland",
+  country: "Switzerland",
+  region: "Europe",
+  description:
+    "Breathtaking Alpine landscapes, beautiful lakes, charming villages and unforgettable mountain experiences.",
+  image:
+    "https://images.pexels.com/photos/28525398/pexels-photo-28525398.jpeg",
+  places: [
+    {
+      name: "Interlaken",
+      description:
+        "A beautiful Swiss town surrounded by dramatic mountains and peaceful Alpine scenery.",
+      image:
+        "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg",
+    },
+    {
+      name: "Lucerne",
+      description:
+        "A picturesque lakeside city known for its historic old town, wooden bridges and mountain views.",
+      image:
+        "https://images.pexels.com/photos/208701/pexels-photo-208701.jpeg",
+    },
+    {
+      name: "Zermatt",
+      description:
+        "A stunning mountain resort village famous for the Matterhorn and breathtaking Alpine landscapes.",
+      image:
+        "https://images.pexels.com/photos/753331/pexels-photo-753331.jpeg",
+    },
+  ],
+},
 
   {
     id: 4,
