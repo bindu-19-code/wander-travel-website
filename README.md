@@ -30,19 +30,19 @@ The application combines a responsive travel-focused interface with external API
 
 ### Destinations
 
-![WANDER Destinations](screenshots/destinations.png)
+![WANDER Destinations](Screenshots/Wander-Destinations.png)
 
 ### Destination Details
 
-![Destination Details](screenshots/destination-details.png)
+![Destination Details](Screenshots/Wander-Destination-details-1.png)
 
 ### Weather
 
-![Weather](screenshots/weather.png)
+![Weather](Screenshots/Wander-Weather.png)
 
 ### AI Travel Assistant
 
-![AI Assistant](screenshots/ai-assistant.png)
+![AI Assistant](Screenshots/AI_Assistant_2.jpeg)
 
 ## Technologies Used
 
