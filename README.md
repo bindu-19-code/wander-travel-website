@@ -26,7 +26,7 @@ The application combines a responsive travel-focused interface with external API
 
 ### Home / Hero Section
 
-![WANDER Home](screenshots/home.png)
+![WANDER Home](Screenshots/Wander-Home.png)
 
 ### Destinations
 
